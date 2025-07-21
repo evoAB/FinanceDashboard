@@ -6,6 +6,32 @@ A secure and scalable financial analytics backend built with **ASP.NET Core 8** 
 
 ---
 
+### 🖼️ Screenshots
+
+#### Login Page
+
+![Login Page](screenshots/loginPage.png)
+
+#### Dashboard View
+
+![Dashboard Page](screenshots/dashboard1.png)
+![Dashboard Page](screenshots/dashboard2.png)
+
+#### Accounts View
+
+![Accounts Page](screenshots/accounts.png)
+![Add Account Page](screenshots/addAccount.png)
+
+#### Transactions View
+
+![Transactions Page](screenshots/transactions.png)
+![Add transaction Page](screenshots/addTransaction.png)
+
+#### Categories View
+
+![Categories Page](screenshots/categories.png)
+![Add Category Page](screenshots/addCategory.png)
+
 ## 🚀 Tech Stack
 
 - **Backend**: ASP.NET Core 8 Web API
